@@ -1,3 +1,8 @@
 main {
 
 }
+.hamburger:hover > div:nth-child(1) {
+    background-color: white;
+    animation-name: top;
+    
+}
